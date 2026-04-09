@@ -3,6 +3,8 @@ Python-based script to parse metrics (e.g. star count, star eccentricity, sky ba
 
 Specifically developed to analyze filenames generated while using N.I.N.A astrophotography aquisition software, this script could also be adapted to sort astronomy image files created by other means as well. N.I.N.A has the ability to configure custom filenames or headers that contain metrics of the saved astrophotography "light" frames (main photograph of a celestial object). 
 
+<img width="2796" height="1449" alt="image" src="https://github.com/user-attachments/assets/5f5c1fb3-ce8d-4d09-8296-2957061309e7" />
+
 <img width="1103" height="513" alt="image" src="https://github.com/user-attachments/assets/deb8aae8-76c2-426a-a2ee-a750303dd75f" />
 
 <img width="1103" height="513" alt="image" src="https://github.com/user-attachments/assets/86f38bad-91ff-4145-a047-552c522518d7" />
